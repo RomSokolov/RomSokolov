@@ -3,14 +3,15 @@
 - 👀 I'm interested in web-development, nature, hiking, popular science and computer games
 - 💻 Building modern web applications with Vue.js, React, PHP & Node.js
 - 💬 How to reach me: sokolovro134@gmail.com
+
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
----
 ### More contact info:
 [<img align="left" alt="romansokolov | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
 [<img align="left" alt="romansokolov | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="romansokolov | LinkedIn" width="40px" src="https://img.icons8.com/2266EE/linkedin" />][linkedin]
-<br/>
+
+<br clear="both"/>
 
 ---
 ### My stack
