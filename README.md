@@ -1,5 +1,5 @@
 ### Hello, everyone! 👋
-### I'm Roman Sokolov — a FullStack Developer from Saint-Petersburg!
+### I'm Roman Sokolov — a Frontend Developer 7+ years of exp
 - 👀 I'm interested in web-development, nature, hiking, popular science and computer games
 - 💻 Building modern web applications with Vue.js, React, PHP & Node.js
 - 💬 How to reach me: sokolovro134@gmail.com
