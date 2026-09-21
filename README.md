@@ -2,7 +2,7 @@
 ### I'm Roman Sokolov — a Frontend Developer 7+ years of exp
 - 👀 I'm interested in web-development, nature, hiking, popular science and computer games
 - 💻 Building modern web applications with Vue.js, React, PHP & Node.js
-- 💬 How to reach me: sokolovro134@gmail.com
+- 💬 How to reach me: tailerrolls@gmail.com
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
